@@ -1,7 +1,6 @@
 {
   "name": "encode",
   "version": "0.1.0",
-  "homepage": "https://anshphirani.github.io/encode",
   "private": true,
   "dependencies": {
     "@monaco-editor/react": "^4.4.6",

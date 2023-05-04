@@ -19,8 +19,8 @@ const NavBar = () => {
         />
       </Navbar.Brand>
       <Nav className="ms-auto">
-        <Nav.Link href="https://encoder-login-form.vercel.app/login">Login</Nav.Link>
-        <Nav.Link href="https://encoder-login-form.vercel.app/signup">Signup</Nav.Link>
+        <Nav.Link href="https://encoder-login-form-okm61fvej-kush-11.vercel.app/login">Login</Nav.Link>
+        <Nav.Link href="https://encoder-login-form-okm61fvej-kush-11.vercel.app/signup">Signup</Nav.Link>
         
       </Nav>
     </Navbar>
